@@ -1,0 +1,38 @@
+/* COLLECTION */
+
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: #ffffff;
+  color: #000000;
+  margin-left: 5em;
+  margin-top: 5em;
+  margin-bottom: 5em;
+  padding: 0; 
+  line-height: 1.3;
+  font-size: 16px;
+  min-height: 100vh;
+  max-width: 100vw;
+  background-image: url('/Users/vanshbhatia/Downloads/collection-4/images/nordwood-themes-Nv4QHkTVEaI-unsplash.jpg');
+  background-size: cover; 
+  background-position: center; 
+  background-repeat: no-repeat;
+
+  max-width: 100%;
+  
+}
+.round-button {
+  display: inline-block;
+  padding: 10px 20px;
+  border:#000000;
+  border-radius: 32px;
+  background-color: #37f2d3; 
+  color: #fff; 
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  cursor: pointer;
+}
